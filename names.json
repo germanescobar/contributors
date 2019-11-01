@@ -1,3 +1,4 @@
 [
-  { firstName: "German", lastName: "Escobar" }
+  { "firstName": "German", "lastName": "Escobar" },
+  { "firstName": "Simon", "lastName": "Hoyos" }
 ]
