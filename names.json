@@ -1,4 +1,6 @@
 [
-  { firstName: "German", lastName: "Escobar" },
-  { firstName: Esteban, lastName: Silva }
+  { "firstName": "German", "lastName": "Escobar" },
+  { "firstName": "Esteban", "lastName": "Silva" },
+  { "firstName": "Fulanito", "lastName": "de Tal" },
+  { "firstName": "Pepito", "lastName": "Perez" }
 ]
