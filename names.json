@@ -6,5 +6,6 @@
   { "firstName": "Daniel", "lastName": "Marin" },
   { "firstName": "Andrés", "lastName": "Ayala" },
   { "firstName": "Shymmy", "lastName": "Garcia" },
-  { "firstName": "Esteban", "lastName": "Silva" }
+  { "firstName": "Esteban", "lastName": "Silva" },
+  { "firstName": "New", "lastName": "Name" }
 ]
